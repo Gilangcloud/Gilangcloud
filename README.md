@@ -1,3 +1,9 @@
+###
+
+<img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwamh6amN6MXd4Nm5ydGVoODl3cHE4Ynh2bmc3N2loaTJ0aHJ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wQclSvQQKtObPx9UKY/giphy.gif"  />
+
+###
+
 # 💫 About Me:
 💻 Fullstack Developer<br>⚡ Love tech, build stuff, and keep it fun!<br>💪 Hardworking & always curious<br>🎯 Let’s create something awesome!
 
